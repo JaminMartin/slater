@@ -1,2 +1,2 @@
 # slater
-Convert slater parameters between different formulisms
+Convert slater parameters between different formalisms
